@@ -1,0 +1,22 @@
+{
+  "name": "dad_jokes",
+  "version": "1.0.0",
+  "description": "Random Dad Jokes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "RKereh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1"
+  }
+}
