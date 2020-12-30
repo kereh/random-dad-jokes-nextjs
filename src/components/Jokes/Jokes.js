@@ -10,13 +10,10 @@ export default function Jokes ({jokes}) {
                     return (
                         <Row>
                             <Col md="12" className="text-center mb-3">
-                                <Card>
+                                <Card className="shadow">
                                     <Card.Body>
                                         {e.joke}
                                     </Card.Body>
-                                    <Card.Footer>
-                                        {e.id}
-                                    </Card.Footer>
                                 </Card>
                             </Col>
                         </Row>
