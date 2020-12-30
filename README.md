@@ -4,14 +4,12 @@
 
 ### ✨ [Demo](https://simple-portofolio.vercel.app/)
 
-## Install
-
-####Install Using npm
+## Install Using NPM
 ```sh
 npm install
 ```
 
-####Install Using pnpm
+## Install Using pnpm
 ```sh
 pnpm i --save
 ```
