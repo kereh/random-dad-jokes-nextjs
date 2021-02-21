@@ -29,7 +29,7 @@ export default function Index () {
     }
     useEffect(() => {
         getSomeJokes();
-    }, [jokes]);
+    }, []);
     return (
         <Fragment>
             <Layout title="Random Dad Jokes">
